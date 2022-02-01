@@ -49,6 +49,9 @@ console.log("max number is", result);
 
 
 /*
+// create a function that takes three numbers as input parameter and returns you the largest number of the three.
+
+
 function getMaxAmong(pera1, pera2, pera3) {
     if (pera1 > pera2 && pera1 > pera3) {
         return pera1;
@@ -67,7 +70,6 @@ const maxNum = getMaxAmong(shamim, shanto, karim);
 console.log("Large Number is ", maxNum);
 
 */
-// create a function that takes three numbers as input parameter and returns you the largest number of the three.
 
 // task  wirte a fucntion to find the smallest of three numbers.
 
